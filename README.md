@@ -5,6 +5,9 @@ Dashboard
 
 ![image](https://user-images.githubusercontent.com/25973930/122130664-9bd85c80-cdfd-11eb-90a9-93c84509c1e8.png)
 
+Story
+
+![image](https://user-images.githubusercontent.com/25973930/122130848-e35ee880-cdfd-11eb-9535-f5e2b05ecb2d.png)
 
 # Questions that were analized based on the data provided by the city Bank bickes DF.
 The time frame chosen for this activities was from November 2020 to April 2021. However, dou to the pandemic data during this time frame may vary from different years.
