@@ -1,6 +1,11 @@
 # Tableau-Challenge
 https://public.tableau.com/views/Tableau-challenge_16233851631070/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
+Dashboard
+
+![image](https://user-images.githubusercontent.com/25973930/122130664-9bd85c80-cdfd-11eb-90a9-93c84509c1e8.png)
+
+
 # Questions that were analized based on the data provided by the city Bank bickes DF.
 The time frame chosen for this activities was from November 2020 to April 2021. However, dou to the pandemic data during this time frame may vary from different years.
 
